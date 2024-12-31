@@ -27,6 +27,10 @@
    ```bash
    python main.py
    ```
+   - You can also run the ML script to see the K-Means Clustering model working alongside the KNN model
+     ```bash
+     python ML.py
+     ```
 2. Follow the on-screen instructions to:
    - Schedule new activities.
    - Remove queued tasks.
